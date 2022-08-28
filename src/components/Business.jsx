@@ -28,13 +28,14 @@ const Business = () => {
     <section id="features" className={layout.section}>
       <div className={layout.sectionInfo}>
         <h2 className={styles.heading2}>
-          You do the business, <br className="sm:block hidden" />
-          we'll handle the money.
+          Electric Scooters! <br className="sm:block hidden" /> Free Shipping &
+          No Sales Tax.
         </h2>
         <p className={`${styles.paragraph} max-w-[480px] mt-5`}>
-          With the right credit card, you can improve your financial life by
-          building credit, earning rewards and saving money. But with hundreds
-          of credit cards on the market.
+          Order your Electric Scooters today from Ronin Scooter PH to get Free
+          shipping on all of our Electric Scooters. Order today for your chance
+          to win a special promotion + free gift! See product page for more
+          details.
         </p>
         <Button styles="mt-10" />
       </div>

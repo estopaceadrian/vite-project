@@ -2,7 +2,7 @@ import { apple, bill, google } from '../assets';
 import styles, { layout } from '../styles';
 
 const Billing = () => (
-  <section id="product" className={layout.sectionReverse}>
+  <section id="payment" className={layout.sectionReverse}>
     <div className={layout.sectionImgReverse}>
       <img
         src={bill}
@@ -14,12 +14,12 @@ const Billing = () => (
     </div>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Easily control your <br className="sm:block hidden" /> billing &
-        invoicing.
+        Easily pay your <br className="sm:block hidden" /> purchases & orders.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Elit enim sed massa etiam. Mauris eu adipiscing ultrices ametodio aenean
-        neque. Fusce ipsum orci rhoncus aliporttitor integer platea placerat.
+        Go all out and shop out of the ordinary from millions of merchants
+        around the world. With PayPal, you can shop for unique gifts seamlessly
+        and safer at home, at work, or even on the go.
       </p>
       <div className="flex flex-row flex-wrap sm:mt-10 mt-6">
         <img

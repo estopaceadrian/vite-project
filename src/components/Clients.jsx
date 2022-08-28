@@ -12,7 +12,7 @@ const Clients = () => (
           <img
             src={client.logo}
             alt="client"
-            className="w-[192px] w-[100px] object-contain "
+            className="w-[192px] h-[100px] object-contain "
           />
         </div>
       ))}

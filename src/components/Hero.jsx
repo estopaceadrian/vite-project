@@ -12,7 +12,7 @@ const Hero = () => (
         <img src={discount} alt="discount" className="w-[32px] h-[32px]" />
         <p className={`${styles.paragraph}`}>
           <span className="text-white">20%</span> Discount For{' '}
-          <span className="text-white">1 Month</span> Account
+          <span className="text-white">2 Scooters</span>
         </p>
       </div>
 
@@ -27,13 +27,15 @@ const Hero = () => (
       </div>
 
       <h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100px] leading-[75px] w-full">
-        Payment Method
+        Electric Scooters
       </h1>
 
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Our team of experts uses a methodology to identify the credit cards most
-        likely to fit your needs. We examine annual percentage rates, annual
-        fees.
+        Ronin Scooter PH is your number one source for Electric Scooters. You’ll
+        find only the Best Electric Scooters on our website. With full customer
+        support, including lifetime expert advice, and a guaranteed low price,
+        you can feel confident buying your Electric Scooters from Ronin Scooter
+        PH.
       </p>
     </div>
     <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>

@@ -10,8 +10,10 @@ const CardDeal = () => (
         steps.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis
-        aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.
+        No single credit card is better than all others in all categories — or
+        for all people. But by understanding your options and asking the right
+        questions, you can find the card that's the best fit for your spending
+        habits and credit situation.
       </p>
       <Button styles="mt-10" />
     </div>

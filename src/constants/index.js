@@ -25,12 +25,12 @@ export const navLinks = [
     title: 'Features',
   },
   {
-    id: 'product',
-    title: 'Product',
+    id: 'payment',
+    title: 'Payment',
   },
   {
-    id: 'clients',
-    title: 'Clients',
+    id: 'reviews',
+    title: 'Reviews',
   },
 ];
 
@@ -38,23 +38,23 @@ export const features = [
   {
     id: 'feature-1',
     icon: star,
-    title: 'Rewards',
+    title: 'Portability and Convenience',
     content:
-      'The best credit cards offer some tantalizing combinations of promotions and prizes',
+      'One of the biggest advantages of electric scooters is their portability.',
   },
   {
     id: 'feature-2',
     icon: shield,
-    title: '100% Secured',
+    title: 'Electric Scooters Can Save You Time',
     content:
-      'We take proactive steps make sure your information and transactions are secure.',
+      'Due to their compact design, these vehicles are ideal for high-traffic areas and crowded parking lots.',
   },
   {
     id: 'feature-3',
     icon: send,
-    title: 'Balance Transfer',
+    title: 'Reduce Your Carbon Footprint',
     content:
-      'A balance transfer credit card can save you a lot of money in interest charges.',
+      'As mentioned before, e-scooters run on batteries. Therefore, they don’t produce any toxic fumes or residues.',
   },
 ];
 
@@ -62,7 +62,7 @@ export const feedback = [
   {
     id: 'feedback-1',
     content:
-      'Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.',
+      'The MX Pro electric scooter is a clone of the Xiaomi M365, an older but hugely successful electric scooter.',
     name: 'Herman Jensen',
     title: 'Founder & Leader',
     img: people01,
@@ -70,7 +70,7 @@ export const feedback = [
   {
     id: 'feedback-2',
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+      'When Apollo launched the 52 volt Phantom in early 2021, it was a big leap forward and the most complete electric scooter design we’d seen.',
     name: 'Steve Mark',
     title: 'Founder & Leader',
     img: people02,
@@ -78,7 +78,7 @@ export const feedback = [
   {
     id: 'feedback-3',
     content:
-      'It is usually people in the money business, finance, and international trade that are really rich.',
+      'The NAMI scooters are 45 kgs beasts, built to excel in performance and with uncompromised ride quality.',
     name: 'Kenn Gallagher',
     title: 'Founder & Leader',
     img: people03,
@@ -109,23 +109,23 @@ export const footerLinks = [
     links: [
       {
         name: 'Content',
-        link: 'https://www.hoobank.com/content/',
+        link: '#/',
       },
       {
         name: 'How it Works',
-        link: 'https://www.hoobank.com/how-it-works/',
+        link: '#/',
       },
       {
         name: 'Create',
-        link: 'https://www.hoobank.com/create/',
+        link: '#/',
       },
       {
         name: 'Explore',
-        link: 'https://www.hoobank.com/explore/',
+        link: '#/',
       },
       {
         name: 'Terms & Services',
-        link: 'https://www.hoobank.com/terms-and-services/',
+        link: '#/',
       },
     ],
   },
@@ -134,23 +134,23 @@ export const footerLinks = [
     links: [
       {
         name: 'Help Center',
-        link: 'https://www.hoobank.com/help-center/',
+        link: '#/',
       },
       {
         name: 'Partners',
-        link: 'https://www.hoobank.com/partners/',
+        link: '#/',
       },
       {
         name: 'Suggestions',
-        link: 'https://www.hoobank.com/suggestions/',
+        link: '#/',
       },
       {
         name: 'Blog',
-        link: 'https://www.hoobank.com/blog/',
+        link: '#/',
       },
       {
         name: 'Newsletters',
-        link: 'https://www.hoobank.com/newsletters/',
+        link: '#/',
       },
     ],
   },
@@ -159,11 +159,11 @@ export const footerLinks = [
     links: [
       {
         name: 'Our Partner',
-        link: 'https://www.hoobank.com/our-partner/',
+        link: '#/',
       },
       {
         name: 'Become a Partner',
-        link: 'https://www.hoobank.com/become-a-partner/',
+        link: '#/',
       },
     ],
   },
