@@ -1,5 +1,5 @@
 import styles from '../styles';
-import logo from '../assets/white_logo.png';
+import logo from '/white_logo.png';
 import { footerLinks, socialMedia } from '../constants';
 
 const Footer = () => (
