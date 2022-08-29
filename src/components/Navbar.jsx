@@ -9,7 +9,7 @@ const Navbar = () => {
 
   return (
     <nav className="w-full flex py-6 justify-between items-center navbar">
-      <img src={logo} alt="ronin" className="w-[80px] h-[80px]" />
+      <img src="/white_logo.png" alt="ronin" className="w-[80px] h-[80px]" />
       <span className="font-poppins font-normal cursor-pointer text-[24px] text-white">
         Ronin Scooter PH
       </span>
