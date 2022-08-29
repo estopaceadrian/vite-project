@@ -93,12 +93,12 @@ export const stats = [
   },
   {
     id: 'stats-2',
-    title: 'reviews',
+    title: 'positive reviews',
     value: '700+',
   },
   {
     id: 'stats-3',
-    title: 'products',
+    title: 'countries',
     value: '80+',
   },
 ];
