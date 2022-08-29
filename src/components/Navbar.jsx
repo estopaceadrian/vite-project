@@ -1,15 +1,14 @@
 import React from 'react';
 import { useState } from 'react';
 import { close, menu } from '../assets';
+import logo from '../assets/white_logo.png';
 import { navLinks } from '../constants';
-import logo from '/white_logo.png';
-
 const Navbar = () => {
   const [toggle, setToggle] = useState(false);
 
   return (
     <nav className="w-full flex py-6 justify-between items-center navbar">
-      <img src="/white_logo.png" alt="ronin" className="w-[80px] h-[80px]" />
+      <img src={logo} alt="ronin" className="w-[80px] h-[80px]" />
       <span className="font-poppins font-normal cursor-pointer text-[24px] text-white">
         Ronin Scooter PH
       </span>
