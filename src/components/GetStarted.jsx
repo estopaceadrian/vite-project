@@ -11,7 +11,7 @@ const GetStarted = () => (
     >
       <div className={`${styles.flexStart} flex-row`}>
         <p className="font-poppins font-medium text-[18px] leading-[23px] mr-2">
-          <span className="text-gradient">Get</span>
+          <span className="text-gradient">View</span>
         </p>
         <img
           src={arrowUp}
@@ -20,7 +20,7 @@ const GetStarted = () => (
         />
       </div>
       <p className="font-poppins font-medium text-[18px] leading-[23px]">
-        <span className="text-gradient">Started</span>
+        <span className="text-gradient">Products</span>
       </p>
     </div>
   </div>
