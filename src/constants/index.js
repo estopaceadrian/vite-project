@@ -108,23 +108,19 @@ export const footerLinks = [
     title: 'Useful Links',
     links: [
       {
-        name: 'Content',
+        name: 'Best Scooters',
         link: '#/',
       },
       {
-        name: 'How it Works',
+        name: 'Lightweight Scooters',
         link: '#/',
       },
       {
-        name: 'Create',
+        name: 'Reviews',
         link: '#/',
       },
       {
-        name: 'Explore',
-        link: '#/',
-      },
-      {
-        name: 'Terms & Services',
+        name: 'About',
         link: '#/',
       },
     ],
@@ -141,7 +137,7 @@ export const footerLinks = [
         link: '#/',
       },
       {
-        name: 'Suggestions',
+        name: 'Discussion',
         link: '#/',
       },
       {

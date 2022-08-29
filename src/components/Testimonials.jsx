@@ -15,9 +15,7 @@ const Testimonials = () => (
         saying about Ronin
       </h1>
       <div className="w-full md:mt-0 mt-6">
-        <p className={`${styles.paragraph} text-left max-w-[450px]`}>
-          The biggest news and newest scooter reviews!
-        </p>
+        <p className={`${styles.paragraph} text-left max-w-[450px]`}></p>
       </div>
     </div>
 

@@ -1,6 +1,7 @@
 import React from 'react';
 import { useState } from 'react';
-import { close, logo, menu } from '../assets';
+import logo from '../assets/white_logo.png';
+import { close, menu } from '../assets';
 import { navLinks } from '../constants';
 
 const Navbar = () => {
@@ -8,7 +9,7 @@ const Navbar = () => {
 
   return (
     <nav className="w-full flex py-6 justify-between items-center navbar">
-      <img src={logo} alt="hoobank" className="w-[80px] h-[80px]" />
+      <img src={logo} alt="ronin" className="w-[80px] h-[80px]" />
       <span className="font-poppins font-normal cursor-pointer text-[24px] text-white">
         Ronin Scooter PH
       </span>

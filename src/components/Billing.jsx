@@ -1,6 +1,6 @@
-import { apple, bill, google } from '../assets';
+import { apple, google } from '../assets';
 import styles, { layout } from '../styles';
-
+import bill from '../assets/pawpal.png';
 const Billing = () => (
   <section id="payment" className={layout.sectionReverse}>
     <div className={layout.sectionImgReverse}>
