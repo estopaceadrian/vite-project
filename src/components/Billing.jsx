@@ -17,9 +17,9 @@ const Billing = () => (
         Easily pay your <br className="sm:block hidden" /> purchases & orders.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Go all out and shop out of the ordinary from millions of merchants
-        around the world. With PayPal, you can shop for unique gifts seamlessly
-        and safer at home, at work, or even on the go.
+        Go all out and purchase the Ronin Scooter from millions of shops
+        worldwide. With PayPal, you can shop for Ronin Scooter from the comfort
+        of your own home, at work, or even on the road.
       </p>
       <div className="flex flex-row flex-wrap sm:mt-10 mt-6">
         <img

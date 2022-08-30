@@ -31,11 +31,10 @@ const Hero = () => (
       </h1>
 
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Ronin Scooter PH is your number one source for Electric Scooters. You’ll
-        find only the Best Electric Scooters on our website. With full customer
-        support, including lifetime expert advice, and a guaranteed low price,
-        you can feel confident buying your Electric Scooters from Ronin Scooter
-        PH.
+        Ronin Scooter PH is your number one source for Electric Scooters, and
+        our website only features the Best Electric Scooters. With comprehensive
+        customer support, including lifelong professional guidance, and a
+        guaranteed low price, you can buy with confidence at Ronin Scooter PH.
       </p>
     </div>
     <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>

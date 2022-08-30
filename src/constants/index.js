@@ -40,21 +40,21 @@ export const features = [
     icon: star,
     title: 'Portability and Convenience',
     content:
-      'One of the biggest advantages of electric scooters is their portability.',
+      'One of the most significant benefits of electric scooters is their portability.',
   },
   {
     id: 'feature-2',
     icon: shield,
     title: 'Electric Scooters Can Save You Time',
     content:
-      'Due to their compact design, these vehicles are ideal for high-traffic areas and crowded parking lots.',
+      'These vehicles are appropriate for high-traffic regions and busy parking lots due to their small shape.',
   },
   {
     id: 'feature-3',
     icon: send,
     title: 'Reduce Your Carbon Footprint',
     content:
-      'As mentioned before, e-scooters run on batteries. Therefore, they don’t produce any toxic fumes or residues.',
+      'Because e-scooters are powered by batteries, they emit no hazardous gases or residues.',
   },
 ];
 
@@ -62,25 +62,24 @@ export const feedback = [
   {
     id: 'feedback-1',
     content:
-      'The MX Pro electric scooter is a clone of the Xiaomi M365, an older but hugely successful electric scooter.',
+      'The MX Pro electric scooter is a knockoff of the Xiaomi M365, a popular but older electric scooter.',
     name: 'Herman Jensen',
-    title: 'Founder & Leader',
+    title: 'Youtube Review',
     img: people01,
   },
   {
     id: 'feedback-2',
-    content:
-      'When Apollo launched the 52 volt Phantom in early 2021, it was a big leap forward and the most complete electric scooter design we’d seen.',
+    content: `When Apollo introduced the 52-volt Phantom in early 2021, it was a significant step forward and the most comprehensive electric scooter design we'd seen.`,
     name: 'Steve Mark',
-    title: 'Founder & Leader',
+    title: 'E-Scooter Enthusiast',
     img: people02,
   },
   {
     id: 'feedback-3',
     content:
-      'The NAMI scooters are 45 kgs beasts, built to excel in performance and with uncompromised ride quality.',
+      'The NAMI scooters are 45 kilogram beasts designed to excel in performance and riding quality.',
     name: 'Kenn Gallagher',
-    title: 'Founder & Leader',
+    title: 'Commuter',
     img: people03,
   },
 ];

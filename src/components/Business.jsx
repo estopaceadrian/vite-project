@@ -32,10 +32,10 @@ const Business = () => {
           No Sales Tax.
         </h2>
         <p className={`${styles.paragraph} max-w-[480px] mt-5`}>
-          Order your Electric Scooters today from Ronin Scooter PH to get Free
-          shipping on all of our Electric Scooters. Order today for your chance
-          to win a special promotion + free gift! See product page for more
-          details.
+          Order your Electric Scooters at Ronin Scooter PH today and receive
+          free delivery on all Electric Scooters. Order now for a chance to win
+          a special deal plus a free gift! More information may be found on the
+          product page.
         </p>
         <Button styles="mt-10" />
       </div>
